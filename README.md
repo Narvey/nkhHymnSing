@@ -1,2 +1,0 @@
-# nkhHymnSing
-Created with CodeSandbox
